@@ -1,0 +1,54 @@
+.syrup {
+    background-color: brown;
+}
+
+.dirt {
+    background-color: black;
+}
+
+.text {
+    padding: 75px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.phone {
+    margin-left: 15%;
+}
+
+.expert {
+    margin-right: 15%;
+}
+
+.center {
+    text-align: center;
+    margin-top: 10%;
+    color: white;
+}
+
+.light {
+    color: white;
+    margin: 10px;
+}
+
+.waffle {
+    width: 245px;
+    height: 165px;
+    object-fit: cover;
+}
+
+.spark {
+    color: white;
+}
+
+.shield {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+
+.jug {
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+}
